@@ -20,7 +20,6 @@ A modern and user-friendly **To-Do List Desktop Application** built with **Pytho
 
 ## 📸 Preview
 
-> Add a screenshot of your application here.
 
 <p align="center">
   <img src="screenshots/preview.png" alt="Modern To-Do List App" width="700">
